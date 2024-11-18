@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group3</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcomeLabelDesc">Welcome to our cozy coffee corner, where every cup is a delightful experience for you.</string>
+    <string name="welcomeLabel">Fall in Love with Coffee in Blissful Delight!</string>
+    <string name="sign_up_title">Join Us!</string>
+    <string name="sign_up_button_text">Sign Up</string>
+</resources>
